@@ -1,11 +1,11 @@
-﻿using Entities.Abstract;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq.Expressions;
 using System.Linq;
 using System.Text;
+using Core.Entities;
 
-namespace DataAccess.Abstract
+namespace Core.DataAccess
 {
     //generic constraint
     //class:referans tip 
