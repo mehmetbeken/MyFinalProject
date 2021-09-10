@@ -11,10 +11,13 @@ namespace ConsoleUI
     {
         static void Main(string[] args)
         {
-             ProductTest();
-            //DTO- Data transformation object
-           
+            // ProductTest();
+            //DTO- Data transformation object           
             //CategoryTest();
+
+            
+
+
 
         }
 
